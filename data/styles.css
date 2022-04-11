@@ -132,4 +132,10 @@
   font-weight:400;
   font-style:normal;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.icon {
+}
 textarea, select, input, button { outline: none; }
