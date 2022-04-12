@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" preserveAspectRatio="xMinYMid meet" viewBox="810 568  18 16" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 817 576.5  L 963 576.5  A 5 5 0 0 1 968.5 581.5 L 968.5 708  " stroke-width="1" stroke="#555555" fill="none" />
-  <path d="M 819 573.5  A 3 3 0 0 0 816 576.5 A 3 3 0 0 0 819 579.5 A 3 3 0 0 0 822 576.5 A 3 3 0 0 0 819 573.5 Z M 962.5 702.3  L 968.5 709  L 974.5 702.3  L 968.5 704.6  L 962.5 702.3  Z " fill-rule="nonzero" fill="#555555" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="58px" preserveAspectRatio="xMidYMin meet" viewBox="862 805  8 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip768">
+      <path d="M 896.197 796  L 925.803 796  L 925.803 824  L 896.197 824  Z M 850 760  L 977 760  L 977 879  L 850 879  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 968.5 770  L 968.5 805  A 5 5 0 0 1 963.5 810.5 L 871 810.5  A 5 5 0 0 0 866.5 815.5 L 866.5 862  " stroke-width="1" stroke="#555555" fill="none" mask="url(#clip768)" />
+  <path d="M 968.5 769  A 3 3 0 0 0 965.5 772 A 3 3 0 0 0 968.5 775 A 3 3 0 0 0 971.5 772 A 3 3 0 0 0 968.5 769 Z M 860.5 856.3  L 866.5 863  L 872.5 856.3  L 866.5 858.6  L 860.5 856.3  Z " fill-rule="nonzero" fill="#555555" stroke="none" mask="url(#clip768)" />
 </svg>
