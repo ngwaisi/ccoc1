@@ -79,6 +79,9 @@
 .sticky_2 {
   text-align:left;
 }
+.marker {
+  color:#FFFFFF;
+}
 .form_hint {
   color:#999999;
 }
