@@ -114,6 +114,9 @@
 }
 .connector {
 }
+._文本段落 {
+  text-align:left;
+}
 .box_1 {
 }
 .image1 {
@@ -140,5 +143,7 @@
   text-align:left;
 }
 .icon {
+}
+._默认样式 {
 }
 textarea, select, input, button { outline: none; }
