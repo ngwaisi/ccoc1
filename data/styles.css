@@ -124,6 +124,8 @@
 }
 .vertical_line {
 }
+.flow_shape {
+}
 .iconfont {
   font-family:'iconfont', sans-serif;
   font-weight:400;
@@ -131,7 +133,7 @@
   font-size:18px;
   color:#666666;
 }
-.flow_shape {
+.flow_shape1 {
 }
 .connector1 {
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
