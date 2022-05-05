@@ -71,12 +71,17 @@
 }
 .line {
 }
+._图片 {
+}
 .arrow {
 }
 .sticky_1 {
   text-align:left;
 }
 .sticky_2 {
+  text-align:left;
+}
+.sticky_4 {
   text-align:left;
 }
 .marker {
@@ -126,6 +131,10 @@
 }
 .flow_shape {
 }
+.table {
+}
+.table_cell {
+}
 .iconfont {
   font-family:'iconfont', sans-serif;
   font-weight:400;
@@ -142,6 +151,9 @@
 }
 .droplist {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 .icon {
